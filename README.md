@@ -1,6 +1,14 @@
 # Analiza podatkov
 
-Trenutno vključuje samo skripto za zajem podatkov s strani [findagrave.com](http://findagrave.com/), ki pridobi podatke grobov z 80 najbolj popisanih pokopališč. Z vsakega groba se pridobita samo podatka ime osebe ter datuma rojstva in smrti.
+Trenutno vključuje samo skripto za zajem podatkov s strani [findagrave.com](http://findagrave.com/), ki pridobi podatke grobov z 80 najbolj [popisanih pokopališč](https://www.findagrave.com/cemetery/search?locationId=country_87&page=1&orderby=memorials).
+
+Z nagrobnega spomenika pridobim ime osebe ter datuma rojstva in smrti (drugih podatkov na grobovih ni). Poleg tega bom osebam poskusil določiti spol.
+
+Vprašanja, ki sem si jih zastavil:
+- Ali ženske res živijo dlje?
+- Koliko se je podaljašala življenjska doba v zadnjih desetletjih?
+- Kakšna je razlika smrtnosti v obdobju svetovnih vojn?
+
 
 ## Priprava okolja
 
