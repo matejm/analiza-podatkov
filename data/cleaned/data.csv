@@ -1,3 +1,4 @@
+name,surname,gender,born,died,place
 Alojz,Ambrožič,M,1905,1934,Bušinja Vas
 Ana,Ambrožič,F,1902,1978,Bušinja Vas
 Jože,Avguštin,M,1905,1977,Bušinja Vas
@@ -1259,7 +1260,7 @@ Stane,Stopar,,,,Farna cerkev Sv. Jožefa
 Joze,Sutej,,1909,1995,Farna cerkev Sv. Jožefa
 Jože,Tkalčič,M,1911,1980,Farna cerkev Sv. Jožefa
 Pavla,Tkalčič,F,1916,1997,Farna cerkev Sv. Jožefa
-Trije,partizani,,,,Farna cerkev Sv. Jožefa
+Trije,Partizani,,,,Farna cerkev Sv. Jožefa
 Ana,Turk,F,1932,2014,Farna cerkev Sv. Jožefa
 Franc,Turk,M,1903,1961,Farna cerkev Sv. Jožefa
 Jožef,Turk,M,1929,2004,Farna cerkev Sv. Jožefa
@@ -4419,7 +4420,7 @@ Mojmir,Zgavec,,1956,1980,Veliko Ubeljsko
 ,,,1921,2000,Rateče
 ,,,1919,1992,Rateče
 ,,,1950,2004,Rateče
-Neža,<i>Benet</i>,F,1897,1974,Rateče
+Neža,<I>Benet</I>,F,1897,1974,Rateče
 Franc,Bačnar,M,1924,1946,Rateče
 Miran,Bačnar,M,1951,2012,Rateče
 Niko,Bačnar,M,1925,1984,Rateče
@@ -6063,7 +6064,7 @@ Friderik,Šuštaršič,,1935,2007,"Polom, Kočevje"
 Ignac,Šuštaršič,,1896,1947,"Polom, Kočevje"
 Jožefa,Šuštaršič,F,1897,1970,"Polom, Kočevje"
 Jože,Činkole,M,1913,1942,Novo Mesto - Šmihel
-Janez,??ga,M,,,Novo Mesto - Šmihel
+Janez,??Ga,M,,,Novo Mesto - Šmihel
 Anton,Ancelj,M,1922,2000,Novo Mesto - Šmihel
 Marija,Ancelj,F,1932,2012,Novo Mesto - Šmihel
 Jakob,Artač,M,1866,1944,Novo Mesto - Šmihel
@@ -6255,7 +6256,7 @@ Ludwig,Petschauer,,1874,1940,Novi Tabor
 Johann,Rom,,1855,1938,Novi Tabor
 Maria,Röthel,,1860,1939,Novi Tabor
 Marija,Sack,F,1849,1928,Novi Tabor
-<i>Grill</i>,Samida,,1868,1901,Novi Tabor
+,Samida,,1868,1901,Novi Tabor
 Andrej,Samida,M,,,Novi Tabor
 Katarina,Samida,F,1860,1939,Novi Tabor
 Mathias,Samida,,1859,1932,Novi Tabor
@@ -6795,7 +6796,7 @@ Jakob,Dolinar,M,1905,1944,Podolnica
 Janez,Dolinar,M,1848,1924,Podolnica
 Marija,Dolinar,F,1853,1893,Podolnica
 Egidij,Erbežnik,,1934,2011,Podolnica
-Janko,Erbežnik,M,1033,2009,Podolnica
+Janko,Erbežnik,M,,,Podolnica
 Marija,Erbežnik,F,1900,1977,Podolnica
 Franc,Fajdiga,M,1879,1951,Podolnica
 Franc,Fajdiga,M,1904,1984,Podolnica
@@ -7988,13 +7989,13 @@ Franci,Štangelj,M,1935,1975,Kočevske Poljane
 Ivan,Štangelj,M,1928,1976,Kočevske Poljane
 Jože,Štangelj,M,1930,1983,Kočevske Poljane
 Marija,Štangelj,F,1905,1961,Kočevske Poljane
-Tomislav,?argonja,M,1937,1999,Radomlje Cemetery
-Anton,?esen,M,1940,2014,Radomlje Cemetery
-Matija,?retnik,M,1910,1996,Radomlje Cemetery
-Terezija,?retnik,F,1910,2001,Radomlje Cemetery
-Vladimir,?rni?,M,1935,2011,Radomlje Cemetery
-Slavko,?uk,M,1925,1987,Radomlje Cemetery
-Ton?ka,?uk,,1926,2002,Radomlje Cemetery
+Tomislav,?Argonja,M,1937,1999,Radomlje Cemetery
+Anton,?Esen,M,1940,2014,Radomlje Cemetery
+Matija,?Retnik,M,1910,1996,Radomlje Cemetery
+Terezija,?Retnik,F,1910,2001,Radomlje Cemetery
+Vladimir,?Rni?,M,1935,2011,Radomlje Cemetery
+Slavko,?Uk,M,1925,1987,Radomlje Cemetery
+Ton?Ka,?Uk,,1926,2002,Radomlje Cemetery
 Ciril,Alpner,M,1930,1996,Radomlje Cemetery
 Rozka,Antonijevi?,,1934,2005,Radomlje Cemetery
 Friderik,Anzi?,,1921,1977,Radomlje Cemetery
@@ -8006,7 +8007,7 @@ Marija,Artek,F,1899,1983,Radomlje Cemetery
 Ivanka,Baloh,F,1933,2011,Radomlje Cemetery
 Janez,Bartol,M,1933,2000,Radomlje Cemetery
 Slavko,Bartol,M,1936,1996,Radomlje Cemetery
-Ton?ka,Bartol,,1931,2004,Radomlje Cemetery
+Ton?Ka,Bartol,,1931,2004,Radomlje Cemetery
 Ruža,Basari?,,1937,2014,Radomlje Cemetery
 Zdravka,Bavdek,,1908,1941,Radomlje Cemetery
 Metod,Beden,M,1930,1995,Radomlje Cemetery
@@ -8073,14 +8074,14 @@ Peter,Dobravic,M,1803,1865,Radomlje Cemetery
 Jože,Dolenc,M,1919,1974,Radomlje Cemetery
 Mimi,Dolenc,,1914,2005,Radomlje Cemetery
 Sonja,Dolenc,F,1954,1954,Radomlje Cemetery
-Sre?o,Dolenc,,1955,2009,Radomlje Cemetery
+Sre?O,Dolenc,,1955,2009,Radomlje Cemetery
 Janez,Drolc,M,1944,2007,Radomlje Cemetery
 Leopold,Drolc,M,1907,1989,Radomlje Cemetery
 Vida,Drolc,F,1910,1988,Radomlje Cemetery
 Mojca,Dvornik,F,1971,2015,Radomlje Cemetery
 Alojz,Fari?,M,1914,1988,Radomlje Cemetery
 Cecilija,Fari?,F,1926,2007,Radomlje Cemetery
-Matevž,Florjan?i?,M,1936,1990,Radomlje Cemetery
+Matevž,Florjan?I?,M,1936,1990,Radomlje Cemetery
 Darja,Forte,F,1938,2012,Radomlje Cemetery
 Slavc,Forte,,1935,1985,Radomlje Cemetery
 Tadeja,Frumen-Seddiki,F,1977,2001,Radomlje Cemetery
@@ -8092,7 +8093,7 @@ Ivanka,Galjot,F,1888,1963,Radomlje Cemetery
 Jože,Gerkman,M,1912,1987,Radomlje Cemetery
 Lencka,Gerkman,,1918,2000,Radomlje Cemetery
 Rok,Gorjanc,M,1975,1994,Radomlje Cemetery
-Marjan?ek,Gorjup,,1962,1963,Radomlje Cemetery
+Marjan?Ek,Gorjup,,1962,1963,Radomlje Cemetery
 Valentin,Gorjup,M,1934,2000,Radomlje Cemetery
 Valentina,Gorjup,F,1912,1993,Radomlje Cemetery
 Mihael,Gosti?,M,1929,2003,Radomlje Cemetery
@@ -8100,8 +8101,8 @@ Mihael,Gosti?,M,1929,2003,Radomlje Cemetery
 Jernej,Govekar,M,1928,2013,Radomlje Cemetery
 Majdica,Govekar,,1965,1967,Radomlje Cemetery
 Pavla,Govekar,F,1913,1991,Radomlje Cemetery
-Franc,Gr?ar,M,1915,1988,Radomlje Cemetery
-Katarina,Gr?ar,F,1925,1994,Radomlje Cemetery
+Franc,Gr?Ar,M,1915,1988,Radomlje Cemetery
+Katarina,Gr?Ar,F,1925,1994,Radomlje Cemetery
 Alojzija,Grahek,F,1942,2011,Radomlje Cemetery
 Ivo,Grat,M,1946,1982,Radomlje Cemetery
 Ana,Gregora?,F,1944,2013,Radomlje Cemetery
@@ -8111,13 +8112,13 @@ Tone,Gregora?,,1965,2016,Radomlje Cemetery
 Angela,Groselj,F,1913,1993,Radomlje Cemetery
 Anton,Groselj,M,1905,1967,Radomlje Cemetery
 Anton,Groselj,M,1867,1938,Radomlje Cemetery
-Fran?iška,Groselj,,1871,1953,Radomlje Cemetery
+Fran?Iška,Groselj,,1871,1953,Radomlje Cemetery
 Ludvik,Grošelj,M,1940,1989,Radomlje Cemetery
 Marjan,Grošelj,M,1947,2002,Radomlje Cemetery
 Marjeta,Hacin,F,1985,2004,Radomlje Cemetery
 Renata,Hacin,F,1971,1994,Radomlje Cemetery
 Vinko,Hacin,M,1939,2009,Radomlje Cemetery
-Fran?iška,Hodnik,,1910,1999,Radomlje Cemetery
+Fran?Iška,Hodnik,,1910,1999,Radomlje Cemetery
 Jože,Hodnik,M,1908,1989,Radomlje Cemetery
 Ivan,Hrastovec,M,1943,2013,Radomlje Cemetery
 Franc,Hribar,M,1931,1945,Radomlje Cemetery
@@ -8166,7 +8167,7 @@ Antonija,Jerman,F,1984,1990,Radomlje Cemetery
 Barbara,Jerman,F,1892,1953,Radomlje Cemetery
 Breda,Jerman,F,1937,2013,Radomlje Cemetery
 Dušan,Jerman,M,1940,2007,Radomlje Cemetery
-Fran?iška,Jerman,,1896,1949,Radomlje Cemetery
+Fran?Iška,Jerman,,1896,1949,Radomlje Cemetery
 Franc,Jerman,M,1862,1921,Radomlje Cemetery
 Franc,Jerman,M,,,Radomlje Cemetery
 Ivan,Jerman,M,,,Radomlje Cemetery
@@ -8182,10 +8183,10 @@ Mihael,Jerman,M,,,Radomlje Cemetery
 Rudi,Jerman,,1933,2002,Radomlje Cemetery
 Rudolf,Jerman,M,1900,1981,Radomlje Cemetery
 Slavko,Jerman,M,1909,1940,Radomlje Cemetery
-Angela,Jernej?i?,F,1917,2004,Radomlje Cemetery
-Franc,Jernej?i?,M,1907,1945,Radomlje Cemetery
-Helena,Jernej?i?,F,1881,1942,Radomlje Cemetery
-Jernej,Jernej?i?,M,1881,1966,Radomlje Cemetery
+Angela,Jernej?I?,F,1917,2004,Radomlje Cemetery
+Franc,Jernej?I?,M,1907,1945,Radomlje Cemetery
+Helena,Jernej?I?,F,1881,1942,Radomlje Cemetery
+Jernej,Jernej?I?,M,1881,1966,Radomlje Cemetery
 Ivan,Juras,M,1945,2013,Radomlje Cemetery
 Tone,Juras,,1949,2014,Radomlje Cemetery
 Franc,Juvan,M,1901,1936,Radomlje Cemetery
@@ -8214,17 +8215,17 @@ Marija,Kladnik,F,1871,1936,Radomlje Cemetery
 Pavel,Kladnik,M,1952,2008,Radomlje Cemetery
 Pavel,Kladnik,M,1911,1990,Radomlje Cemetery
 Alojz,Klancar,M,1923,2003,Radomlje Cemetery
-Jožef,Klop?i?,M,1930,2010,Radomlje Cemetery
-Ljudmila,Klop?i?,F,1933,2010,Radomlje Cemetery
-Stane,Klop?i?,,1937,1986,Radomlje Cemetery
-Alojzij,Ko?ar,M,1915,1944,Radomlje Cemetery
-Anton,Ko?ar,M,1920,2012,Radomlje Cemetery
-Janez,Ko?ar,M,1915,1984,Radomlje Cemetery
-Julijana,Ko?ar,F,1928,1993,Radomlje Cemetery
-Marija,Ko?ar,F,1917,2007,Radomlje Cemetery
-Mihaela,Ko?ar,F,1921,2012,Radomlje Cemetery
-Viljem,Ko?ar,M,1916,1981,Radomlje Cemetery
-Zofija,Ko?ar,F,1913,1990,Radomlje Cemetery
+Jožef,Klop?I?,M,1930,2010,Radomlje Cemetery
+Ljudmila,Klop?I?,F,1933,2010,Radomlje Cemetery
+Stane,Klop?I?,,1937,1986,Radomlje Cemetery
+Alojzij,Ko?Ar,M,1915,1944,Radomlje Cemetery
+Anton,Ko?Ar,M,1920,2012,Radomlje Cemetery
+Janez,Ko?Ar,M,1915,1984,Radomlje Cemetery
+Julijana,Ko?Ar,F,1928,1993,Radomlje Cemetery
+Marija,Ko?Ar,F,1917,2007,Radomlje Cemetery
+Mihaela,Ko?Ar,F,1921,2012,Radomlje Cemetery
+Viljem,Ko?Ar,M,1916,1981,Radomlje Cemetery
+Zofija,Ko?Ar,F,1913,1990,Radomlje Cemetery
 Jože,Kobilca,M,1928,2013,Radomlje Cemetery
 Marija,Kobilca,F,1923,2013,Radomlje Cemetery
 Franc,Koderman,M,1940,1991,Radomlje Cemetery
@@ -8240,11 +8241,11 @@ Franci,Kregar,M,1936,2011,Radomlje Cemetery
 Alojzija,Kren,F,,,Radomlje Cemetery
 Jože,Kren,M,,,Radomlje Cemetery
 Štefan,Kren,M,,,Radomlje Cemetery
-Alojz,Križi?nik,M,1885,1958,Radomlje Cemetery
-Ton?ka,Križi?nik,,1924,1951,Radomlje Cemetery
+Alojz,Križi?Nik,M,1885,1958,Radomlje Cemetery
+Ton?Ka,Križi?Nik,,1924,1951,Radomlje Cemetery
 Dr,Krusi?,,1947,2015,Radomlje Cemetery
-Anton,Krži?nik,M,1907,1997,Radomlje Cemetery
-Vera,Krži?nik,F,1923,2001,Radomlje Cemetery
+Anton,Krži?Nik,M,1907,1997,Radomlje Cemetery
+Vera,Krži?Nik,F,1923,2001,Radomlje Cemetery
 Ivan,Kurent,M,1921,2001,Radomlje Cemetery
 Ivana,Kurent,F,1923,2007,Radomlje Cemetery
 Marjan,Kurent,M,1947,2009,Radomlje Cemetery
@@ -8263,17 +8264,17 @@ Terezija,Levstek,F,1933,2007,Radomlje Cemetery
 Ludvik,Lutar,M,1947,2003,Radomlje Cemetery
 Ivan,Malnar,M,1933,2004,Radomlje Cemetery
 Jakob,Marčun,M,1915,1945,Radomlje Cemetery
-Ana,Mar?un,F,1857,1928,Radomlje Cemetery
-Andrej,Mar?un,M,1859,1931,Radomlje Cemetery
-Ciril,Mar?un,M,1899,1961,Radomlje Cemetery
-Fran?iška,Mar?un,,,,Radomlje Cemetery
-Ivan,Mar?un,M,1933,1936,Radomlje Cemetery
-Janez,Mar?un,M,1933,1987,Radomlje Cemetery
-Jani,Mar?un,M,1966,1982,Radomlje Cemetery
-Lovrenc,Mar?un,,1899,1962,Radomlje Cemetery
-Marija,Mar?un,F,1896,1973,Radomlje Cemetery
-Marija,Mar?un,F,,,Radomlje Cemetery
-Mirka,Mar?un,,1928,2015,Radomlje Cemetery
+Ana,Mar?Un,F,1857,1928,Radomlje Cemetery
+Andrej,Mar?Un,M,1859,1931,Radomlje Cemetery
+Ciril,Mar?Un,M,1899,1961,Radomlje Cemetery
+Fran?Iška,Mar?Un,,,,Radomlje Cemetery
+Ivan,Mar?Un,M,1933,1936,Radomlje Cemetery
+Janez,Mar?Un,M,1933,1987,Radomlje Cemetery
+Jani,Mar?Un,M,1966,1982,Radomlje Cemetery
+Lovrenc,Mar?Un,,1899,1962,Radomlje Cemetery
+Marija,Mar?Un,F,1896,1973,Radomlje Cemetery
+Marija,Mar?Un,F,,,Radomlje Cemetery
+Mirka,Mar?Un,,1928,2015,Radomlje Cemetery
 Eva,Marc,F,1962,1999,Radomlje Cemetery
 Marija,Marcun,F,1905,1984,Radomlje Cemetery
 Vinko,Marinšek,M,1919,1944,Radomlje Cemetery
@@ -8285,14 +8286,14 @@ Vinko,Marolt,M,1909,1924,Radomlje Cemetery
 Franc,Mastnak,M,1878,1967,Radomlje Cemetery
 Ivana,Mastnak,F,1927,1962,Radomlje Cemetery
 Marija,Mastnak,F,1887,1967,Radomlje Cemetery
-Pavla,Mati?i?,F,1925,2016,Radomlje Cemetery
+Pavla,Mati?I?,F,1925,2016,Radomlje Cemetery
 Janez,Mav,M,1961,2015,Radomlje Cemetery
 Marjan,Mav,M,1933,1979,Radomlje Cemetery
 Veronika,Megli?,F,1943,2013,Radomlje Cemetery
 Ignac,Merhar,,1971,1999,Radomlje Cemetery
 Rozina,Merhar,,1922,2009,Radomlje Cemetery
 Igor,Merkuži?,M,1969,2000,Radomlje Cemetery
-Milan,Mihel?i?,M,1955,2003,Radomlje Cemetery
+Milan,Mihel?I?,M,1955,2003,Radomlje Cemetery
 Murn,Milan,,1955,1986,Radomlje Cemetery
 Slobodan,Milutinovi?,M,1922,1998,Radomlje Cemetery
 Terezija,Milutinovi?,F,1925,2008,Radomlje Cemetery
@@ -8301,9 +8302,9 @@ Marija,Mlakar,F,1921,2008,Radomlje Cemetery
 Marjan,Mlakar,M,1961,2006,Radomlje Cemetery
 Valentin,Mlakar,M,1915,1989,Radomlje Cemetery
 Vida,Mlakar,F,1927,2014,Radomlje Cemetery
-Angela,Mo?nik,F,1905,1994,Radomlje Cemetery
-Franc,Mo?nik,M,1898,1971,Radomlje Cemetery
-Lucija,Mo?nik,F,1895,1942,Radomlje Cemetery
+Angela,Mo?Nik,F,1905,1994,Radomlje Cemetery
+Franc,Mo?Nik,M,1898,1971,Radomlje Cemetery
+Lucija,Mo?Nik,F,1895,1942,Radomlje Cemetery
 Amalija,Mohar,F,1909,1997,Radomlje Cemetery
 Dejan,Mohar,M,1985,1985,Radomlje Cemetery
 Franc,Mohar,M,1931,1988,Radomlje Cemetery
@@ -8319,13 +8320,13 @@ Marija,Nastran,F,1932,1999,Radomlje Cemetery
 Marija,Nastran,F,1869,1947,Radomlje Cemetery
 Slavka,Nelc,F,1932,2004,Radomlje Cemetery
 Boris,Nemani?,M,1949,1995,Radomlje Cemetery
-Mal?i,Nemani?,,1923,1993,Radomlje Cemetery
+Mal?I,Nemani?,,1923,1993,Radomlje Cemetery
 Ana,Nemec,F,1929,2001,Radomlje Cemetery
 Vinko,Nemec,M,1928,2015,Radomlje Cemetery
 Zoran,Nikoli?,M,,,Radomlje Cemetery
 Anton,Novak,M,1894,1987,Radomlje Cemetery
 Cilka,Novak,,1924,2008,Radomlje Cemetery
-Fran?iška,Novak,,1933,2015,Radomlje Cemetery
+Fran?Iška,Novak,,1933,2015,Radomlje Cemetery
 Franc,Novak,M,1905,1983,Radomlje Cemetery
 Jože,Novak,M,1926,1984,Radomlje Cemetery
 Lojze,Novak,,1944,2010,Radomlje Cemetery
@@ -8359,7 +8360,7 @@ Jakob,Pavlin,M,1867,1945,Radomlje Cemetery
 Janez,Pavlin,M,1897,1963,Radomlje Cemetery
 Marija,Pavlin,F,1856,1931,Radomlje Cemetery
 Marjeta,Pavlin,F,1861,1923,Radomlje Cemetery
-Robert,Pe?e,M,1986,2013,Radomlje Cemetery
+Robert,Pe?E,M,1986,2013,Radomlje Cemetery
 Angela,Penko,F,1912,2005,Radomlje Cemetery
 Ivo,Penko,M,1915,1975,Radomlje Cemetery
 Marija,Perne,F,1920,1997,Radomlje Cemetery
@@ -8376,7 +8377,7 @@ Vid,Petruši?,M,1935,2015,Radomlje Cemetery
 Mojca,Pevec,F,1968,2012,Radomlje Cemetery
 Stanko,Pevec,M,1935,2013,Radomlje Cemetery
 Albina,Pirc,F,1931,1961,Radomlje Cemetery
-Fran?iška,Pirc,,1880,1947,Radomlje Cemetery
+Fran?Iška,Pirc,,1880,1947,Radomlje Cemetery
 Franc,Pirc,M,1913,1997,Radomlje Cemetery
 Franc,Pirc,M,1880,1950,Radomlje Cemetery
 Gabrijela,Pirc,F,1924,2014,Radomlje Cemetery
@@ -8395,22 +8396,22 @@ Jože,Platner,M,1918,1985,Radomlje Cemetery
 Olga,Plaznik,F,1935,2016,Radomlje Cemetery
 Jože,Podvršnik,M,1921,1950,Radomlje Cemetery
 Tilka,Podvršnik,,1912,1975,Radomlje Cemetery
-Albin,Poga?ar,M,1925,1974,Radomlje Cemetery
-Ana,Poga?ar,F,1924,2005,Radomlje Cemetery
-Filomena,Poga?ar,,1865,1936,Radomlje Cemetery
-Ivana,Poga?ar,F,1901,1985,Radomlje Cemetery
-Joze,Poga?ar,,1939,1988,Radomlje Cemetery
-Jožef,Poga?ar,M,1862,1940,Radomlje Cemetery
-Jožef,Poga?ar,M,1897,1945,Radomlje Cemetery
-Klara,Poga?ar,F,1931,1992,Radomlje Cemetery
-Majda,Poga?ar,F,,,Radomlje Cemetery
-Matija,Poga?ar,M,1967,2014,Radomlje Cemetery
-Viktor,Poga?ar,M,1908,1978,Radomlje Cemetery
-Franciska,Poga?ar-Kova?,,1872,1954,Radomlje Cemetery
-Gregor,Poga?ar-Kova?,M,1865,1941,Radomlje Cemetery
-Jožefa,Poga?ar-Kova?,F,1910,2002,Radomlje Cemetery
-Jožica,Poga?ar-Kova?,F,1935,1998,Radomlje Cemetery
-Mihael,Poga?ar-Kova?,M,1901,1976,Radomlje Cemetery
+Albin,Poga?Ar,M,1925,1974,Radomlje Cemetery
+Ana,Poga?Ar,F,1924,2005,Radomlje Cemetery
+Filomena,Poga?Ar,,1865,1936,Radomlje Cemetery
+Ivana,Poga?Ar,F,1901,1985,Radomlje Cemetery
+Joze,Poga?Ar,,1939,1988,Radomlje Cemetery
+Jožef,Poga?Ar,M,1862,1940,Radomlje Cemetery
+Jožef,Poga?Ar,M,1897,1945,Radomlje Cemetery
+Klara,Poga?Ar,F,1931,1992,Radomlje Cemetery
+Majda,Poga?Ar,F,,,Radomlje Cemetery
+Matija,Poga?Ar,M,1967,2014,Radomlje Cemetery
+Viktor,Poga?Ar,M,1908,1978,Radomlje Cemetery
+Franciska,Poga?Ar-Kova?,,1872,1954,Radomlje Cemetery
+Gregor,Poga?Ar-Kova?,M,1865,1941,Radomlje Cemetery
+Jožefa,Poga?Ar-Kova?,F,1910,2002,Radomlje Cemetery
+Jožica,Poga?Ar-Kova?,F,1935,1998,Radomlje Cemetery
+Mihael,Poga?Ar-Kova?,M,1901,1976,Radomlje Cemetery
 Franc,Pohlin,M,1940,2007,Radomlje Cemetery
 Marko,Pohlin,M,1967,2009,Radomlje Cemetery
 Alojzija,Pojbi?,F,1926,2011,Radomlje Cemetery
@@ -8458,7 +8459,7 @@ Albin,Rojc,M,1913,2001,Radomlje Cemetery
 Albin,Rojc,M,1945,1977,Radomlje Cemetery
 Ciril,Rojc,M,1912,1965,Radomlje Cemetery
 Darja,Rojc,F,1960,1992,Radomlje Cemetery
-Fran?iška,Rojc,,1884,1970,Radomlje Cemetery
+Fran?Iška,Rojc,,1884,1970,Radomlje Cemetery
 Franc,Rojc,M,1935,1998,Radomlje Cemetery
 Janez,Rojc,M,1884,1971,Radomlje Cemetery
 Marica,Rojc,F,1936,1950,Radomlje Cemetery
@@ -8473,10 +8474,10 @@ Anton,Rojec,M,1933,2006,Radomlje Cemetery
 Ivanka,Rosulnik,F,1916,2010,Radomlje Cemetery
 Janez,Rosulnik,M,1910,1966,Radomlje Cemetery
 Terezija,Rosulnik,F,1884,1981,Radomlje Cemetery
-Fran?iÅ¡ka,Saje,,1927,2010,Radomlje Cemetery
+Fran?Iå¡Ka,Saje,,1927,2010,Radomlje Cemetery
 Melena,Saje,,1943,2010,Radomlje Cemetery
 Ivanka,Sajetovi,F,,,Radomlje Cemetery
-Fran?iška,Sajovic,,1905,1981,Radomlje Cemetery
+Fran?Iška,Sajovic,,1905,1981,Radomlje Cemetery
 Mira,Sajovic,F,,,Radomlje Cemetery
 Savo,Sajovic,,,,Radomlje Cemetery
 Veronika,Sajovic,F,1932,2008,Radomlje Cemetery
@@ -8485,8 +8486,8 @@ Ivanka,Semprimožnik,F,1907,1991,Radomlje Cemetery
 Leopold,Semprimožnik,M,1927,1946,Radomlje Cemetery
 Alojzij,Sevnik,M,1907,1963,Radomlje Cemetery
 ,,,1930,1967,Radomlje Cemetery
-Lado,Sin?ek,,1930,2001,Radomlje Cemetery
-Ton?ka,Sin?ek,,1933,1991,Radomlje Cemetery
+Lado,Sin?Ek,,1930,2001,Radomlje Cemetery
+Ton?Ka,Sin?Ek,,1933,1991,Radomlje Cemetery
 Ciril,Sitar,M,1906,1976,Radomlje Cemetery
 Ivan,Sitar,M,1940,2016,Radomlje Cemetery
 Janki,Sitar,,1946,1967,Radomlje Cemetery
@@ -8516,21 +8517,21 @@ Vida,Suban,F,1935,2005,Radomlje Cemetery
 Brigita,Svetic,F,1911,1993,Radomlje Cemetery
 Franc,Svetic,M,1908,1985,Radomlje Cemetery
 Rotija,Svetic,,1906,1989,Radomlje Cemetery
-Betka,Tav?er,,1934,2014,Radomlje Cemetery
-Vinko,Tav?er,M,1937,1999,Radomlje Cemetery
+Betka,Tav?Er,,1934,2014,Radomlje Cemetery
+Vinko,Tav?Er,M,1937,1999,Radomlje Cemetery
 Matilda,Telban,F,1923,2000,Radomlje Cemetery
-Ton?ek,Telban,,1924,2004,Radomlje Cemetery
+Ton?Ek,Telban,,1924,2004,Radomlje Cemetery
 Albina,Temlin,F,1952,2010,Radomlje Cemetery
 Koloman,Temlin,,1926,1995,Radomlje Cemetery
 Janez,Tešar,M,1911,1993,Radomlje Cemetery
 Ivana,Tomše,F,1946,1997,Radomlje Cemetery
 Jerneja,Turk,F,1966,1967,Radomlje Cemetery
-Jakob,U?akar,M,1899,1973,Radomlje Cemetery
-Helena,Ul?ar,F,1894,1975,Radomlje Cemetery
-Julijana,Ul?ar,F,1906,1989,Radomlje Cemetery
-Ladislav,Ul?ar,M,1939,2001,Radomlje Cemetery
-Peter,Ul?ar,M,1893,1971,Radomlje Cemetery
-Peter,Ul?ar,M,1927,2012,Radomlje Cemetery
+Jakob,U?Akar,M,1899,1973,Radomlje Cemetery
+Helena,Ul?Ar,F,1894,1975,Radomlje Cemetery
+Julijana,Ul?Ar,F,1906,1989,Radomlje Cemetery
+Ladislav,Ul?Ar,M,1939,2001,Radomlje Cemetery
+Peter,Ul?Ar,M,1893,1971,Radomlje Cemetery
+Peter,Ul?Ar,M,1927,2012,Radomlje Cemetery
 Ana,Urbanijevi,F,1902,1981,Radomlje Cemetery
 Janez,Urbanijevi,M,1900,1978,Radomlje Cemetery
 Angela,Valentin,F,1910,1973,Radomlje Cemetery
@@ -8542,15 +8543,15 @@ Anton,Vidergar,M,1898,1995,Radomlje Cemetery
 Zorka,Vidergar,,1921,2003,Radomlje Cemetery
 Ana,Viki,F,1908,1967,Radomlje Cemetery
 Marija,Viki,F,1933,1969,Radomlje Cemetery
-Sre?o,Vodlan,,1929,2001,Radomlje Cemetery
-Jovo,Vra?evi?,,1940,2008,Radomlje Cemetery
+Sre?O,Vodlan,,1929,2001,Radomlje Cemetery
+Jovo,Vra?Evi?,,1940,2008,Radomlje Cemetery
 Janez,Vrenjak,M,1947,2007,Radomlje Cemetery
-Anton,Zu?ko,M,1937,2003,Radomlje Cemetery
-Francka,Zu?ko,,1928,2006,Radomlje Cemetery
-Marija,Zu?ko,F,1902,1969,Radomlje Cemetery
-Rudolf,Zu?ko,M,1932,1992,Radomlje Cemetery
-Rudolf,Zu?ko,M,1897,1940,Radomlje Cemetery
-Mitja,Zupan?i?,M,1930,1988,Radomlje Cemetery
+Anton,Zu?Ko,M,1937,2003,Radomlje Cemetery
+Francka,Zu?Ko,,1928,2006,Radomlje Cemetery
+Marija,Zu?Ko,F,1902,1969,Radomlje Cemetery
+Rudolf,Zu?Ko,M,1932,1992,Radomlje Cemetery
+Rudolf,Zu?Ko,M,1897,1940,Radomlje Cemetery
+Mitja,Zupan?I?,M,1930,1988,Radomlje Cemetery
 Anton,Zupanc,M,1898,1979,Radomlje Cemetery
 Pavel,Šavli,M,1939,2015,Radomlje Cemetery
 Anton,Šimenc,M,1939,2013,Radomlje Cemetery
@@ -8569,7 +8570,7 @@ Katarina,Škrjanec,F,1903,1981,Radomlje Cemetery
 Katrina,Škrjanec,,1898,1986,Radomlje Cemetery
 Ljudmila,Škrjanec,F,1937,2008,Radomlje Cemetery
 Marija,Škrjanec,F,1934,2013,Radomlje Cemetery
-Jan?e,Šraj,,1898,1982,Radomlje Cemetery
+Jan?E,Šraj,,1898,1982,Radomlje Cemetery
 Janez,Šraj,M,1956,1978,Radomlje Cemetery
 Joze,Šraj,,1951,2002,Radomlje Cemetery
 Jože,Šraj,M,1921,1986,Radomlje Cemetery
@@ -8579,9 +8580,9 @@ Vito,Šraj,,1952,2014,Radomlje Cemetery
 Franc,Štebal,M,1911,1988,Radomlje Cemetery
 Lucija,Štupar,F,1861,1943,Radomlje Cemetery
 Dora,Šubelj,,1900,1992,Radomlje Cemetery
-Fran?iška,Šubelj,,1901,1985,Radomlje Cemetery
+Fran?Iška,Šubelj,,1901,1985,Radomlje Cemetery
 Ana,Šuligoj,F,1902,1980,Radomlje Cemetery
-Fran?ek,Šuligoj,,1942,1962,Radomlje Cemetery
+Fran?Ek,Šuligoj,,1942,1962,Radomlje Cemetery
 Franc,Šuligoj,M,1897,1976,Radomlje Cemetery
 Ivan,Šuligoj,M,1940,2015,Radomlje Cemetery
 Franc,Žabnikar,M,1909,1983,Radomlje Cemetery
@@ -8589,7 +8590,7 @@ Marija,Žabnikar,F,1906,1978,Radomlje Cemetery
 Marija,Žagar,F,1952,2015,Radomlje Cemetery
 Marija,Žitko,F,1920,2004,Radomlje Cemetery
 Marija,Škrjanec,F,1934,2013,Radomlje Cemetery
-Jan?e,Šraj,,1898,1982,Radomlje Cemetery
+Jan?E,Šraj,,1898,1982,Radomlje Cemetery
 Janez,Šraj,M,1956,1978,Radomlje Cemetery
 Joze,Šraj,,1951,2002,Radomlje Cemetery
 Jože,Šraj,M,1921,1986,Radomlje Cemetery
@@ -8599,9 +8600,9 @@ Vito,Šraj,,1952,2014,Radomlje Cemetery
 Franc,Štebal,M,1911,1988,Radomlje Cemetery
 Lucija,Štupar,F,1861,1943,Radomlje Cemetery
 Dora,Šubelj,,1900,1992,Radomlje Cemetery
-Fran?iška,Šubelj,,1901,1985,Radomlje Cemetery
+Fran?Iška,Šubelj,,1901,1985,Radomlje Cemetery
 Ana,Šuligoj,F,1902,1980,Radomlje Cemetery
-Fran?ek,Šuligoj,,1942,1962,Radomlje Cemetery
+Fran?Ek,Šuligoj,,1942,1962,Radomlje Cemetery
 Franc,Šuligoj,M,1897,1976,Radomlje Cemetery
 Ivan,Šuligoj,M,1940,2015,Radomlje Cemetery
 Franc,Žabnikar,M,1909,1983,Radomlje Cemetery
@@ -8833,7 +8834,7 @@ Janez,Osredkar,M,1962,1963,Dvor pri Polhovem Gradcu
 Jože,Osredkar,M,1903,1988,Dvor pri Polhovem Gradcu
 Marija,Osredkar,F,1904,1986,Dvor pri Polhovem Gradcu
 Marija,Osredkar,F,1896,1957,Dvor pri Polhovem Gradcu
-Terezija,Osredkar,F,1024,2008,Dvor pri Polhovem Gradcu
+Terezija,Osredkar,F,,,Dvor pri Polhovem Gradcu
 Alojs,Osretkar,,,,Dvor pri Polhovem Gradcu
 Ivan,Osretkar,M,,,Dvor pri Polhovem Gradcu
 Ana,Peklaj,F,1916,2005,Dvor pri Polhovem Gradcu
@@ -9190,7 +9191,7 @@ Ana,Štubler,F,1882,1918,Jugorje Cemetery
 Jakob,Štubler,M,1855,1913,Jugorje Cemetery
 Marko,Štubler,M,1888,1926,Jugorje Cemetery
 Marko,Štubler,M,1914,1994,Jugorje Cemetery
-UrŠula,Štubler,,1892,1977,Jugorje Cemetery
+Uršula,Štubler,,1892,1977,Jugorje Cemetery
 ,,,,,Dragomer
 ,,,,,Dragomer
 ,,,,,Dragomer
@@ -13961,12 +13962,12 @@ Alojz,Roškar,M,1908,1976,Žale Cemetery
 Valentin,Rožanc,M,1895,1942,Žale Cemetery
 Valentin,Rožič,M,1878,1935,Žale Cemetery
 Maks,Rupar,M,1908,1941,Žale Cemetery
-GEN,Rupnik,,1880,1946,Žale Cemetery
+Gen,Rupnik,,1880,1946,Žale Cemetery
 Jože,Rus,M,1900,1988,Žale Cemetery
 Irena,Ružička,F,1864,1945,Žale Cemetery
 Jan,Ružička,M,1854,1930,Žale Cemetery
 Marija,Ružička,F,1886,1906,Žale Cemetery
-GEN,Rösener,,1902,1946,Žale Cemetery
+Gen,Rösener,,1902,1946,Žale Cemetery
 Ivan,Salmič,M,1914,1943,Žale Cemetery
 Albina,Samotorčan,F,,,Žale Cemetery
 Ana,Samotorčan,F,,,Žale Cemetery
@@ -13988,7 +13989,7 @@ Ernest,Schatter,M,,,Žale Cemetery
 Just,Schaubach,,1897,1972,Žale Cemetery
 Marija,Schaubach,F,1899,1966,Žale Cemetery
 Marija,Schaubach,F,1924,2005,Žale Cemetery
-Miroslav,Schaubach,M,1024,2012,Žale Cemetery
+Miroslav,Schaubach,M,,,Žale Cemetery
 Stanko,Schaubach,M,1954,1993,Žale Cemetery
 Gerda,Schimmerling,,1937,1942,Žale Cemetery
 Adelheid,Schleimer,,1856,1888,Žale Cemetery
@@ -14654,7 +14655,7 @@ Mathias,Kump,,1841,1878,Koprivnik Cemetery
 Mathias,Kump,,1828,1879,Koprivnik Cemetery
 Mathias,Kump,,1845,1845,Koprivnik Cemetery
 Frančiška,Kuzole,F,1904,1988,Koprivnik Cemetery
-Johan(n),Kuzule,,,,Koprivnik Cemetery
+Johan(N),Kuzule,,,,Koprivnik Cemetery
 Josef,Köstner,,1843,1911,Koprivnik Cemetery
 Josef,Köstner,,1909,1909,Koprivnik Cemetery
 Magdalena,Köstner,F,1868,1932,Koprivnik Cemetery
@@ -15961,7 +15962,7 @@ Joze,Povset,,1897,1992,Sentlambert Cemetery
 Lojzka,Povset,,1924,1946,Sentlambert Cemetery
 Ana,Prebil,F,1914,1997,Sentlambert Cemetery
 Anton,Prebil,M,1902,1957,Sentlambert Cemetery
-milan,Prebil,M,,,Sentlambert Cemetery
+Milan,Prebil,M,,,Sentlambert Cemetery
 Milan,Prebil,M,1940,1943,Sentlambert Cemetery
 Angel,Rajner,,,,Sentlambert Cemetery
 Franciska,Rajner,,1876,1952,Sentlambert Cemetery
@@ -17246,7 +17247,7 @@ Marija,Škraba,F,1860,1939,Tomišelj
 Marija,Škraba,F,1876,1965,Tomišelj
 Marija,Škraba,F,1862,1913,Tomišelj
 Peter,Škraba,M,1900,1976,Tomišelj
-Peter,Škraba,M,1843,2005,Tomišelj
+Peter,Škraba,M,,,Tomišelj
 Srečko,Škraba,M,1925,1945,Tomišelj
 Urška,Škraba,F,1910,2003,Tomišelj
 Frančiška,Škrjanc,F,1892,1970,Tomišelj
@@ -18479,7 +18480,7 @@ Anton,Janežič,M,,,"Draga, Loški Potok"
 Feliks,Janežič,,1902,1962,"Draga, Loški Potok"
 Frančiška,Janežič,F,,,"Draga, Loški Potok"
 Toni,Janežič,,,,"Draga, Loški Potok"
-Ivan,Jeelnik,M,1941,2013,"Draga, Loški Potok"
+Ivan,JeElnik,M,1941,2013,"Draga, Loški Potok"
 Alojz,Ješelnik,M,1907,1994,"Draga, Loški Potok"
 Amalija,Ješelnik,F,1922,2010,"Draga, Loški Potok"
 Franc,Ješelnik,M,1913,1984,"Draga, Loški Potok"
@@ -18745,16 +18746,16 @@ Bogomir,Benedik,M,,,Ljubljana - Štepanja Vas
 Matevž,Bokavšek,M,,,Ljubljana - Štepanja Vas
 Anton,Božič,M,,,Ljubljana - Štepanja Vas
 Franc,Breskvar,M,,,Ljubljana - Štepanja Vas
-Anton,IV,M,,,Ljubljana - Štepanja Vas
+Anton,Iv,M,,,Ljubljana - Štepanja Vas
 Anton,V,M,1875,1954,Ljubljana - Štepanja Vas
-Anton,III,M,1753,1832,Ljubljana - Štepanja Vas
+Anton,Iii,M,1753,1832,Ljubljana - Štepanja Vas
 Anton,Codelli,M,1753,1832,Ljubljana - Štepanja Vas
 August,I,,1685,1749,Ljubljana - Štepanja Vas
-August,II,,1746,1829,Ljubljana - Štepanja Vas
+August,Ii,,1746,1829,Ljubljana - Štepanja Vas
 Elisabeth,Codelli,,1777,1852,Ljubljana - Štepanja Vas
-Joseph,II,,1718,1795,Ljubljana - Štepanja Vas
+Joseph,Ii,,1718,1795,Ljubljana - Štepanja Vas
 Karl,I,M,,,Ljubljana - Štepanja Vas
-Karl,II,M,1846,1878,Ljubljana - Štepanja Vas
+Karl,Ii,M,1846,1878,Ljubljana - Štepanja Vas
 Karl,Codelli,M,1902,1921,Ljubljana - Štepanja Vas
 Peter,Codelli,M,1660,1727,Ljubljana - Štepanja Vas
 Rosalia,Codelli,,1852,1938,Ljubljana - Štepanja Vas
@@ -22513,8 +22514,8 @@ Marija,Jernejucevi,F,1900,1944,Rova
 Marija,Jernejucevi,F,1900,1943,Rova
 Klemen,Junant,M,1951,2004,Rova
 Dejan,Kastelic,M,1983,1983,Rova
-ANDREJ,KAVCIC,M,1896,1972,Rova
-MARIJA,KAVCIC,F,1897,1983,Rova
+Andrej,Kavcic,M,1896,1972,Rova
+Marija,Kavcic,F,1897,1983,Rova
 Martin,Kavcic,M,1928,2015,Rova
 Ferdinand,Klopcic,,1897,1967,Rova
 Ferdinand,Klopcic,,1937,1967,Rova
@@ -22532,7 +22533,7 @@ Albin,Kocarjevi,M,1920,1944,Rova
 Amalija,Kocarjevi,F,1929,2004,Rova
 Franc,Kocarjevi,M,1883,1964,Rova
 Katarina,Kocarjevi,F,1889,1976,Rova
-Simon,KocarjeviKocarjevi,M,1928,2005,Rova
+Simon,Kocarjevikocarjevi,M,1928,2005,Rova
 Antonija,Kodra,F,1912,1993,Rova
 Antonija,Kodra,F,1887,1936,Rova
 Janez,Kodra,M,1870,1951,Rova
@@ -22566,7 +22567,7 @@ Stricko,Markovcevi,,1912,1987,Rova
 Stane,Marolt,,1932,2001,Rova
 Andrejka,Martin,F,1909,1981,Rova
 Marija,Martincevi,F,1902,1975,Rova
-Rudolph,Martincevi,,1808,1964,Rova
+Rudolph,Martincevi,,,,Rova
 Damijan,Matijevcevi,M,1941,2003,Rova
 Ferdinand,Matijevcevi,,1899,1950,Rova
 Katarina,Matijevcevi,F,1910,1974,Rova
@@ -22579,7 +22580,7 @@ Marija,Novak,F,1910,1979,Rova
 Dragomira,Orazmovi,,1848,1885,Rova
 Janez,Orazmovi,M,1939,2001,Rova
 Edvard,Orcar,M,1933,2002,Rova
-Anton,Oso0lin,M,1945,2015,Rova
+Anton,Oso0Lin,M,1945,2015,Rova
 Alojz,Osolin,M,1948,1990,Rova
 Anton,Osolin,M,1909,1988,Rova
 Antonija,Osolin,F,1914,1959,Rova
@@ -22631,11 +22632,11 @@ Branko,Rodetovi,M,1938,1978,Rova
 Maksima,Rodetovi,,1908,1988,Rova
 Mihael,Rodetovi,M,1898,1991,Rova
 Joze,Rus,,1948,2012,Rova
-FRANC,SERKO-TOVI,M,1921,1943,Rova
-FRANCISKA,SERKO-TOVI,,1892,1974,Rova
-GREGOR,SERKO-TOVI,M,1930,1979,Rova
-JANEZ,SERKO-TOVI,M,1885,1938,Rova
-MARIJA,SERKO-TOVI,F,1930,1985,Rova
+Franc,Serko-Tovi,M,1921,1943,Rova
+Franciska,Serko-Tovi,,1892,1974,Rova
+Gregor,Serko-Tovi,M,1930,1979,Rova
+Janez,Serko-Tovi,M,1885,1938,Rova
+Marija,Serko-Tovi,F,1930,1985,Rova
 Franciska,Setina,,1920,1997,Rova
 Slavko,Setina,M,1947,2007,Rova
 Ivan,Sobocan,M,1920,1996,Rova
@@ -24051,7 +24052,7 @@ Jernej,Suhadolc,M,1907,1986,Dobrova
 Jernej,Suhadolc,M,1948,1955,Dobrova
 Julijana,Suhadolc,F,1924,2004,Dobrova
 Julka,Suhadolc,,1912,2000,Dobrova
-Juri(j),Suhadolc,,1864,1946,Dobrova
+Juri(J),Suhadolc,,1864,1946,Dobrova
 Karolina,Suhadolc,F,1932,1946,Dobrova
 Luka,Suhadolc,M,,,Dobrova
 Luka,Suhadolc,M,,,Dobrova

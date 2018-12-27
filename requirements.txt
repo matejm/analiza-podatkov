@@ -1,3 +1,5 @@
 random_useragent
 splinter
 six
+pandas
+matplotlib

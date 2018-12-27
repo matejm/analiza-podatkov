@@ -46,7 +46,12 @@ def parse_name(name_str):
     try:
         name, *_, surname = name_str.strip().split()
     except:
-        name, surname = None, None
+        return None, None
+    
+    name = name.title()
+    surname = surname.title()
+    if '<i>' in name.lower():
+        name = None
     return name, surname
 
 
@@ -56,7 +61,7 @@ def parse_dates(date_str):
     if years is not None and len(years) == 2:
         born, died = map(int, years)
 
-        if born <= died:
+        if born <= died and died - born < 150:  # nobody is older than 150 years
             return born, died
 
     return None, None
@@ -87,6 +92,10 @@ def clean_data(input_dir, output_dir, output_filename):
     if os.path.exists(out_file):
         os.remove(out_file)   
     os.makedirs(output_dir, exist_ok=True)
+
+    with open(out_file, 'a') as f:
+        writer = csv.writer(f)
+        writer.writerow(['name', 'surname', 'gender', 'born', 'died', 'place'])
 
     for filename in os.listdir(input_dir):
         print(f'Cleaning data from {filename}')        

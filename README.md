@@ -1,6 +1,10 @@
 # Analiza podatkov
 
-Trenutno vključuje samo skripto za zajem podatkov s strani [findagrave.com](http://findagrave.com/), ki pridobi podatke grobov z 80 najbolj [popisanih pokopališč](https://www.findagrave.com/cemetery/search?locationId=country_87&page=1&orderby=memorials) in skripto, ki pridobljene podatke 'prečisti'.
+Vključuje:
+
+- analizo podatkov s slovenskih grobov narejeno v Jupitru
+- skripto za zajem podatkov s strani [findagrave.com](http://findagrave.com/), ki pridobi podatke grobov z 80 najbolj [popisanih pokopališč](https://www.findagrave.com/cemetery/search?locationId=country_87&page=1&orderby=memorials) in
+- skripto, ki pridobljene podatke 'prečisti'.
 
 Z nagrobnega spomenika pridobim ime osebe ter datuma rojstva in smrti (drugih podatkov na grobovih ni). Poleg tega bom osebam poskusil določiti spol.
 
@@ -42,8 +46,13 @@ Pridobljeni podatki so shranjeni v `data/cleaned/data.csv`. V vsaki vrstici so s
 - spol (`M` ali `F`)
 - leto rojstva
 - leto smrti
+- kraj kjer je bila oseba pokopana
 
 Imena in datumi pogosto niso bili razpoznavni, zato pri več osebah podatki manjkajo. Od skupno `25 237` oseb, je  `22 362` takšnih z vsemi podatki.
 
 #### O določanju spola
 Spol sem večini oseb določil s pomočjo seznama 200 najpogostejših slovenskih imen, ki je dostopen na [tej povezavi](https://www.stat.si/ImenaRojstva/sl/FirstNames/ExpandNames). Zavedam se dejstva, da to ni idealen način določanja spola, vendar menim, da neupoštevanje manj pogostih imen ne bi smelo bistveno spremeniti nadaljne obdelave podatkov. Seveda bom v analizo, kjer spol ne bo pomemben vključil tudi ostale osebe. Oseb z določenimi vsemi podatki je `18 827`.
+
+
+## Analiza podatkov
+Vse je opisano v datoteki [Analiza podatkov grobov](https://github.com/matejm/analiza-podatkov/blob/master/Analiza%20podatkov%20grobov.ipynb).
