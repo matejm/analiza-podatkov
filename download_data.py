@@ -63,6 +63,7 @@ class DataGetter:
         location_slovenia = 'country_87'
         orderby = 'memorials'
 
+        cemetery_names = []
 
         for page in range(1, 5):
             self.browser.visit(
@@ -83,6 +84,9 @@ class DataGetter:
                 self.browser.visit(
                     f'{self.BASEURL}{url}'
                 )
+
+                cemetery_full_name = self.browser.find_by_css('.bio-name').text
+                cemetery_names.append(cemetery_full_name)
 
                 # prepare csv writer
                 csv_file = open(os.path.join(
@@ -116,6 +120,8 @@ class DataGetter:
 
                 csv_file.close()
 
+        with open(os.path.join('data', 'cemetery_names.csv'), 'w') as f:
+            f.write('\n'.join(cemetery_names))
 
 
 if __name__ == '__main__':
