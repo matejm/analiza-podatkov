@@ -22,6 +22,7 @@ def load_names():
     with open(FEMALE_NAMES_FILE) as f:
         female_names = set(row[0] for row in csv.reader(f))
 
+
 def load_cemetery_names():
     global cemetery_names, cemetery_names_lower
 
@@ -43,11 +44,15 @@ def guess_gender(name):
 
 
 def parse_name(name_str):
+    """
+    Tries to get name and surname from data written on a grave.
+    Mainly tries to remove nicknames and keeps only one name and surname.
+    """
     try:
         name, *_, surname = name_str.strip().split()
     except:
         return None, None
-    
+
     name = name.title()
     surname = surname.title()
     if '<i>' in name.lower():
@@ -56,8 +61,13 @@ def parse_name(name_str):
 
 
 def parse_dates(date_str):
+    """
+    Tries to get birth and death year from text.
+    Text often includes also exact dates, or at least months, but parsing this would be extremely tricky as dates
+    can be written i.e. using Roman numerals. Thus exact date parsing was omitted.
+    """
     years = capture_year.findall(date_str)
-    
+
     if years is not None and len(years) == 2:
         born, died = map(int, years)
 
@@ -68,6 +78,10 @@ def parse_dates(date_str):
 
 
 def parse_place(filename):
+    """
+    Find correct cemetery name. Needed because source website had some problems using special Slovenian letters,
+    i.e. č, ž, š. Very inefficient, but still good enough.
+    """
     max_score = -1
     match = None
     for i, name in enumerate(cemetery_names_lower):
@@ -82,15 +96,18 @@ def parse_place(filename):
 
 
 def clean_data(input_dir, output_dir, output_filename):
+    """
+    Opens all files in given `input_dir`, cleans data and saves it into `output_dir/output_filename`.
+    """
     if male_names is None or female_names is None:
         load_names()
     if cemetery_names is None:
         load_cemetery_names()
 
     out_file = os.path.join(output_dir, output_filename)
-    
+
     if os.path.exists(out_file):
-        os.remove(out_file)   
+        os.remove(out_file)
     os.makedirs(output_dir, exist_ok=True)
 
     with open(out_file, 'a') as f:
@@ -98,14 +115,13 @@ def clean_data(input_dir, output_dir, output_filename):
         writer.writerow(['name', 'surname', 'gender', 'born', 'died', 'place'])
 
     for filename in os.listdir(input_dir):
-        print(f'Cleaning data from {filename}')        
+        print(f'Cleaning data from {filename}')
         data = []
         place = parse_place(filename)
 
         with open(os.path.join(input_dir, filename)) as f:
             reader = csv.reader(f)
             reader.__next__()  # skip header
-
 
             for person in reader:
                 name_str, date_str = person
@@ -121,7 +137,7 @@ def clean_data(input_dir, output_dir, output_filename):
         with open(out_file, 'a') as f:
             writer = csv.writer(f)
             writer.writerows(data)
-    
+
     print(f'Done. All data written to {out_file}.')
 
 

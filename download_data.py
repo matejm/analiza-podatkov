@@ -7,10 +7,10 @@ from urllib.parse import unquote
 
 
 class DataGetter:
-    '''
+    """
     Using splinter for Browser controlling, because site won't allow us getting data using 'automated software'.
     Changing only user agent in request headers did not work.
-    '''
+    """
 
     DOWNLOAD_DIRECTORY = 'data/raw'
     BASEURL = 'https://www.findagrave.com'
@@ -57,7 +57,6 @@ class DataGetter:
 
             yield details.groupdict(0)
 
-
     def get_data(self):
         path = 'cemetery/search'
         location_slovenia = 'country_87'
@@ -77,7 +76,7 @@ class DataGetter:
                 *url, name = unquote(cemetery.groups(0)[0]).split('/')
 
                 print(f'Visiting cemetery {name}')
-                
+
                 url = '/'.join(url)
 
                 # navigate to page and wait for redirect
@@ -100,7 +99,7 @@ class DataGetter:
 
                 search_url = self.browser.url + '/memorial-search?firstName=&lastName='
                 total = 0
-                
+
                 for page in range(1, 200):
                     self.browser.visit(
                         search_url + f'&page={page}'
